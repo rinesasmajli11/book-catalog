@@ -27,7 +27,7 @@ export const fakeUsers = [
 ];
 
 export const authOptions: NextAuthOptions = {
-  secret: process.env.NEXTAUTH_SECRET || "bookcatalog-secret-key-for-demo-development-only",
+  secret: process.env.NEXTAUTH_SECRET,
   debug: process.env.NODE_ENV === "development",
   providers: [
     CredentialsProvider({
