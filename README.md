@@ -154,13 +154,13 @@ npm run dev
 
 Open in browser:
 
-http://localhost:3000
+https://book-catalog-topaz.vercel.app/
 
 🌍 Deployment
 
 The application is deployed on Vercel and configured using environment variables.
 
-👤 Author
+👤 Authors
 
 Name: Rinesa Smajli , Rina Hoti
 
