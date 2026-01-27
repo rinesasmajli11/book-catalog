@@ -1,7 +1,6 @@
 import { getServerSession } from "next-auth";
 import { authOptions } from "@/lib/auth";
 import { redirect } from "next/navigation";
-// @ts-expect-error - Fix: AdminPanelClient module may be missing type declarations
 import AdminPanelClient from "./AdminPanelClient";
 
 export default async function AdminPage() {
