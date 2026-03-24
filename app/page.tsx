@@ -43,7 +43,7 @@ export default function Home() {
               </h1>
 
               <p className="mt-6 md:mt-8 text-lg md:text-xl text-gray-600 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-                BookCatalog is a refined digital platform that helps you explore,
+                BookCatalog is a modern digital platform that helps you explore,
                 curate, and manage your book collection through a seamless experience.
               </p>
 
