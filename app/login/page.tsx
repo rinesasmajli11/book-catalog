@@ -115,7 +115,7 @@ export default function LoginPage() {
               <div className="flex items-start gap-3">
                 <span className="mt-2 h-2 w-2 rounded-full bg-blue-600" />
                 <p className="leading-relaxed">
-                  Save books you love and build a personal collection.
+                  Save books you love and build a private collection.
                 </p>
               </div>
               <div className="flex items-start gap-3">
