@@ -21,7 +21,7 @@ export default async function AdminPage() {
       <div className="max-w-7xl mx-auto px-6 py-12">
         <div className="mb-8">
           <h1 className="text-4xl font-bold mb-2">Admin Panel</h1>
-          <p className="text-gray-600">Manage books in the catalog</p>
+          <p className="text-gray-600">Manage titles in the catalog</p>
         </div>
 
         <AdminPanelClient />
