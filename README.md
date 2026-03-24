@@ -79,6 +79,10 @@ Context API
 
 Jest
 
+## Notes
+
+This repository contains a book catalog app built for practicing frontend architecture with Next.js and React.
+
 🔐 Authentication (Test Credentials)
 
 Use the following credentials to test the application:
