@@ -172,6 +172,6 @@ Project Type: Academic / Demo Project
 
 🎓 Final Note
 
-This project focuses on demonstrating frontend development concepts, authentication flow, and role-based access control using modern Next.js practices.
+This project focuses on showcasing frontend development concepts, authentication flow, and role-based access control using modern Next.js practices.
 
 Example change: fix banner
