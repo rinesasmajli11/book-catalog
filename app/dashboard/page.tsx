@@ -45,7 +45,7 @@ export default async function DashboardPage() {
               </h1>
 
               <p className="mt-6 text-xl text-gray-600 leading-relaxed">
-                Your personal space to manage favorites, explore curated titles,
+                Your personal space to manage favorites, explore selected titles,
                 and keep everything organized — calmly and beautifully.
               </p>
             </div>
