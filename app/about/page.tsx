@@ -22,7 +22,7 @@ export default function About() {
       BookCatalog is a thoughtfully curated book collection designed for
       readers who value clarity, depth, and discovery. From contemporary
       classics to insightful nonfiction, we focus on books worth your time —
-      presented in a calm, elegant browsing experience.
+      presented in a calm, polished browsing experience.
     </p>
 
     <div className="mt-12 flex flex-wrap justify-center gap-6">
